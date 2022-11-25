@@ -1,2 +1,2 @@
-# -BiCaps-DBP-Prediction-of-DNA-binding-proteins-from-Protein-Sequence-using-Bi-LSTM-and-1D-Capsule-
+# -BiCaps-DBP-
 The source code of BiCaps-DBP
